@@ -1,6 +1,3 @@
-README
-
-Description
 
 This is a small semantic search engine. It takes a set of text documents, converts each one into a numeric vector using a sentence embedding model, and lets you search them with a plain text query. Instead of matching exact words, it matches meaning, so a query can find a document even if they do not share the same words.
 
